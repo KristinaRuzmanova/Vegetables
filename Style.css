@@ -1,0 +1,22 @@
+ * 
+ a {
+ 	text-decoration: none;
+ }
+ nav  {
+ 	height: 149px;
+ 	font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 24px;
+ }
+
+.first {
+	position: absolute;
+width: 1440px;
+height: 850px;
+left: 0px;
+top: 149px;
+
+background: #F3FBF8;
+}
